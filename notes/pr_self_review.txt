@@ -1,0 +1,13 @@
+Student Name: Rana AlSanousi
+
+What changed:
+I added a new section to README.md called "How I use Git carefully" with four habits I follow. I also created this self-review file to explain the change. The identity lines at the top of the README were left unchanged.
+
+How I verified the change:
+I ran git status and git diff to confirm that only README.md and notes/pr_self_review.txt were changed. I also opened README.md with cat to check that the identity lines were still at the top and the new section was formatted correctly.
+
+One possible improvement a reviewer might suggest:
+A reviewer might suggest making the habits more specific by adding example commands. They might also suggest adding a short sentence explaining why each habit matters.
+
+Professional response I would give:
+I would thank the reviewer for the feedback and agree that examples would make the section clearer. I would make the update in a new commit on the same branch so the pull request stays easy to review.
