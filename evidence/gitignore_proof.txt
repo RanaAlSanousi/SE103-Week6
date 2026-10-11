@@ -1,0 +1,13 @@
+Student Name: Rana AlSanousi
+
+Patterns in my .gitignore:
+.DS_Store
+*.log
+temp/
+secret.env
+
+What git status showed about the ignored files:
+After I created secret.env, temp/temp_note.txt, and practice/app.log, git status did not list any of them. It only showed .gitignore as a new file to track. This proved that Git was following my ignore patterns. The ignored files stayed on my computer but were not available to commit.
+
+Why committing secrets is dangerous:
+Once a secret like an API key is committed, it becomes part of the repository history. Anyone with access to the repository can find it, even if I delete it in a later commit. Exposed keys can be misused to access accounts or services and cause real damage. The safest approach is to keep secrets out of Git and revoke any key that was exposed.
