@@ -1,0 +1,12 @@
+Student Name: Rana AlSanousi
+GitHub Username: RanaAlSanousi
+Repository: SE103-Week6
+Repository URL: https://github.com/RanaAlSanousi/SE103-Week6
+
+Git habits I demonstrated this week:
+I made small commits that each covered one clear unit of progress. I ran git status before committing to check which files had changed. I created a .gitignore and proved that secret.env, temp files, and log files were not tracked. I rewrote weak commit messages into clear ones that explain what changed. I used a branch and a pull request to add my README changes and reviewed my own work before merging.
+
+One mistake-prevention habit I will keep:
+I will keep running git status before and after staging files. Staging files by name instead of adding everything helps me avoid committing secrets or the wrong files.
+
+All required files are on main: Yes
