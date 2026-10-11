@@ -1,0 +1,10 @@
+Student Name: Rana AlSanousi
+
+Commit 1 purpose:
+document my small-commit plan
+
+Commit 2 purpose:
+record my inspect-before-commit habit
+
+Why smaller commits are better than one giant commit:
+Small commits make it easy to see exactly what changed and why. If something breaks, I can find the problem in one small step instead of searching through a huge change. They also make my history readable for teammates and for me later. Each commit tells one clear part of the story.
