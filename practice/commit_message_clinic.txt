@@ -1,0 +1,22 @@
+Student Name: Rana AlSanousi
+
+Weak message 1: updates
+Improved message 1:
+add commit plan and status notes to practice folder
+Why this is better:
+It names what was added and where, so a teammate knows the change without opening the files.
+
+Weak message 2: final final
+Improved message 2:
+fix typo in README and finalize identity section
+Why this is better:
+It says what was actually fixed and finished, instead of implying a version number nobody can trace.
+
+Weak message 3: stuff
+Improved message 3:
+add gitignore rules for logs, temp files, and secrets
+Why this is better:
+It describes the purpose of the change and what it protects, so it is useful when I read the history later.
+
+My personal commit message rule:
+My commit message should say what changed and why it matters in one short line. I will start with a clear verb like add, fix, or update. I will avoid vague words like stuff or final. If I cannot describe the commit in one line, I will split it into smaller commits.
