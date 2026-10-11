@@ -1,0 +1,7 @@
+Student Name: Rana AlSanousi
+
+What I check before committing:
+I run git status to see which files changed and which are untracked. I confirm that only the files I meant to change are listed. I look out for files that should not be committed, like secrets or temporary files. I stage specific files by name instead of adding everything at once.
+
+What I am committing now and why:
+I am committing status_notes.txt, which records my inspect-before-commit habit. I am committing it separately from the plan so each commit shows one clear unit of progress.
